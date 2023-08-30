@@ -1,0 +1,27 @@
+{
+    "precos":[
+        {
+            "frango":{
+                "broto": "R$ 20,00",
+                "media": "R$ 36,00",
+                "grande": "R$ 48,00",
+                "familia": "R$ 61,00"
+            },
+
+            "calabresa":{
+                "broto": "R$ 24,00 ",
+                "media": "R$ 36,00",
+                "grande": "R$ 50,00",
+                "familia": "R$ 65,00"
+            },
+
+            "basca":{
+                "broto": "R$ 28,00",
+                "media": "R$ 41,00",
+                "grande": "R$ 56,00",
+                "familia": "R$ 69,00"
+            }
+
+        }
+    ]
+}
